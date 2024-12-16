@@ -7,7 +7,7 @@ const Layouts = ({ children }) => {
         <div>
         <ul>
             <li>
-                
+            
                 <Link to="/">Home</Link>
                 </li>
             <li>

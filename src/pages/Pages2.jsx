@@ -1,10 +1,11 @@
 import { Link } from "react-router-dom";
 
-const Home = () => {
+const Page2 = () => {
     return (
         <div>
+        
         </div>
     );
 };
 
-export default Home;
+export default Page2;

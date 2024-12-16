@@ -1,7 +1,8 @@
 import { BrowserRouter, Route, Routes} from 'react-router-dom';
 import Home from '../pages/Home';
-import Page2 from '../pages/Page2';
+import Page2 from '../pages/Pages2';
 import Layouts from '../components/Layouts';
+
 const Router = () => (
     <BrowserRouter>
         <Layouts>
