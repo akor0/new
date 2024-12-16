@@ -6,10 +6,9 @@ import Router from './app/Router'
 const App = () => {
 
   return (
-    <div>kjkjkjk
+    <div>
       <Router />
-      2222
-      woeahdaiuheweuhao
+      227
     </div>
   )
 }
