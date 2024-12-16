@@ -9,6 +9,7 @@ const App = () => {
     <div>kjkjkjk
       <Router />
       2222
+      woeahdaiuheweuhao
     </div>
   )
 }
